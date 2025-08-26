@@ -14,7 +14,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **profissional 
     * **Python** e **Django**
 * **Linguagens e Habilidades:**
     * Atualmente, estou desenvolvendo um jogo em **C**.
-    * Tenho noções de **JavaScript**.
+    * **JavaScript**.
     * Conheço **HTML5** e **CSS3**.
 * **Bootcamp:**
     * Atualmente, estou no bootcamp **Full Stack Developer** focado em **Python** na Mate Academy.
