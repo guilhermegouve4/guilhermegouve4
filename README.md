@@ -1,4 +1,4 @@
-### Olá, sou o Guilherme Gouvea! 👋
+### Olá, sou o Guilherme Gouvea! 🔥
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **profissional neurodivergente (autista)**, buscando um estágio em desenvolvimento e em áreas correlatadas. Tenho 25 anos e sou de Londrina, no Paraná. Possuo grande aptidão por tecnologia e sou muito criativo :)
 
