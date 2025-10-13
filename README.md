@@ -11,7 +11,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **profissional 
 ### O que eu estou aprendendo
 
 * **Foco Principal:**
-    * **Python** e **Django**
+    * **Python** e **Machine Learning**
 * **Linguagens e Habilidades:**
     * Atualmente, estou desenvolvendo um jogo em **C**.
     * **JavaScript**.
