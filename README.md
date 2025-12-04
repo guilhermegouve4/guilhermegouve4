@@ -1,6 +1,6 @@
 ### Olá, sou o Guilherme Gouvea! 🔥
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **profissional neurodivergente (autista)**, buscando um estágio em desenvolvimento e em áreas correlatadas. Tenho 25 anos e sou de Londrina, no Paraná. Possuo grande aptidão por tecnologia e sou muito criativo :)
+Sou um **Desenvolvedor Backend**, estudante de **Análise e Desenvolvimento de Sistemas** e **profissional neurodivergente**. Tenho 25 anos e sou de Londrina, no Paraná. Possuo grande aptidão por tecnologia e sou muito criativo :)
 
 <div align="center">
   <img src="https://i.redd.it/885ytghqfrv61.gif" alt="GIF de Gato Preto" width="200"/>
@@ -11,7 +11,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **profissional 
 ### O que eu estou aprendendo
 
 * **Foco Principal:**
-    * **Python** e **Machine Learning**
+    * **.NET** e **Python**
 * **Linguagens e Habilidades:**
     * Atualmente, estou desenvolvendo um jogo em **C**.
     * **JavaScript**.
