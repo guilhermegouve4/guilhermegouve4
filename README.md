@@ -4,7 +4,7 @@
 
 <img src="https://i.redd.it/885ytghqfrv61.gif" alt="GIF de Gato Preto" width="180"/>
 
-### Engenheiro Backend | Especialista C#/.NET | Desenvolvedor de Sistemas IA
+### Engenheiro Backend | C#/.NET | Desenvolvedor de Sistemas IA
 
 <p>
   <a href="https://www.linkedin.com/in/guilhermegouve4/">
@@ -40,7 +40,7 @@ Engenheiro Backend especializado no ecossistema .NET e desenvolvimento de soluç
 
 ### Backend & Frameworks
 - **Core:** C# • .NET 8/9 • ASP.NET Core • Minimal APIs
-- **Python:** Django Framework
+- **Python:** Flask
 - **Arquitetura:** Domain-Driven Design (DDD) • Clean Architecture
 - **Patterns:** CQRS • Event-Driven Systems
 
@@ -170,11 +170,11 @@ Desenvolvimento de plataformas enterprise para assistentes inteligentes e análi
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-EA7343?style=for-the-badge&logo=bruno&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
