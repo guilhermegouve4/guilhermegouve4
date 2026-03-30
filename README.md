@@ -19,13 +19,22 @@
 
 ---
 
-**PT** — Desenvolvedor back-end com experiência em APIs REST, arquitetura DDD e integração com IA. Linux como ambiente principal, com transição ativa para segurança da informação — estudando CompTIA Security+.
+**PT** — Desenvolvedor back-end com experiência em APIs REST, arquitetura DDD e integração com IA. Linux como ambiente principal, com transição ativa para segurança da informação — estudando CompTIA Network+.
 
-**EN** — Backend developer experienced in REST APIs, DDD architecture and AI integration. Linux as my daily driver, actively moving into information security — currently studying for CompTIA Security+.
+**EN** — Backend developer experienced in REST APIs, DDD architecture and AI integration. Linux as my daily driver, actively moving into information security — currently studying for CompTIA Network+.
 
 ---
 
 ## Stack
+
+- **Linguagens / Languages** — C# · Python
+- **Frameworks** — ASP.NET Core · Flask · Entity Framework Core
+- **Banco de dados / Database** — MongoDB
+- **Arquitetura / Architecture** — DDD · Clean Architecture · REST
+- **Auth / Security** — JWT · RBAC · OWASP · CompTIA Network+ *(em andamento)*
+- **Testes / Tests** — xUnit · Moq
+
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -34,9 +43,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Arquitetura / Architecture** — DDD · Clean Architecture · REST
-**Auth / Security** — JWT · RBAC · OWASP · CompTIA Security+ *(em andamento)*
-**Testes / Tests** — xUnit · Moq
+</div>
 
 ---
 
